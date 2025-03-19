@@ -18,7 +18,7 @@ namespace ConsoleApp5
                 if (value == "высокое" || value == "среднее" || value == "низкое")
                 quality = value;
             else
-                    quality = "среднее"; // Значение по умолчанию
+                    quality = "среднее";
             }
         }
 
