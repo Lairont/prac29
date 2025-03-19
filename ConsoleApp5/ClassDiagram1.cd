@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="FullSignature">
+  <Class Name="ConsoleApp5.Magazine">
+    <Position X="6.25" Y="1.5" Width="4.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAEAAAABAAAAIABAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Magazine.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ConsoleApp5.Press">
+    <Position X="2.75" Y="1.5" Width="3.25" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAAAQAAAAAAAAAIABQAAAQEAAAEAAAAAAAAAAA=</HashCode>
+      <FileName>Press.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ConsoleApp5.Program">
+    <Position X="0.5" Y="1.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
